@@ -106,4 +106,3 @@ This project reflects real-world DevOps practices:
 
 ## Edwin Jonathan Chibuike
 
-[Your Name]
